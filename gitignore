@@ -1,0 +1,11 @@
+[33mcommit d2986109011b08700076ed554393b83b68f254ae[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: JotaEffe <jair.sebas.alejandro@gmail.com>
+Date:   Tue Aug 3 21:19:50 2021 -0500
+
+    added folder .vscode to the .gitignore folder
+
+[33mcommit 2a5cf2a324036cf10d4143f2e68eb4df9157e0ff[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JotaEffe <81340466+JotaEffe@users.noreply.github.com>
+Date:   Tue Aug 3 19:27:54 2021 -0500
+
+    Initial commit
